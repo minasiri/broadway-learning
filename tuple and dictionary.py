@@ -1,0 +1,12 @@
+t = (1,2,3,1,2,1,1,4,4)
+count = t.count(1)
+print(count)
+s=sum(t)
+print(s)
+max(t)
+print("Maximum in the tuple t",max(t))
+sorted(t)
+print(sorted(t))
+t.sort(t)
+print(t.sort(t))
+student ={"name": "ABC", "age": 24, "address":Kalanki}
